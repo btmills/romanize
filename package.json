@@ -1,0 +1,12 @@
+{
+  "name": "node-romanize",
+  "version": "0.0.0",
+  "description": "Convert numbers to and from Roman numerals",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": "",
+  "author": "btmills",
+  "license": "BSD"
+}
