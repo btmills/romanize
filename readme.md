@@ -1,4 +1,4 @@
-# Node-Romanize
+# Romanize
 
 Converts numbers to and from Roman numerals.
 

@@ -1,12 +1,7 @@
 {
-  "name": "node-romanize",
+  "name": "romanize",
   "version": "0.0.0",
   "description": "Convert numbers to and from Roman numerals",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
-  "repository": "",
-  "author": "btmills",
-  "license": "BSD"
+  "main": "./lib/romanize.js",
+  "author": "Brandon Mills <mills.brandont@gmail.com>"
 }
