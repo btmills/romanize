@@ -1,7 +1,24 @@
 {
   "name": "romanize",
-  "version": "0.0.0",
-  "description": "Convert numbers to and from Roman numerals",
+  "version": "0.1.0",
+  "description": "Convert to and from Roman numerals",
   "main": "./lib/romanize.js",
-  "author": "Brandon Mills <mills.brandont@gmail.com>"
+  "author": {
+    "name": "Brandon Mills",
+    "twitter": "brandontmills"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/btmills/romanize.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {
+    "coffee-script": "latest",
+    "mocha": "latest",
+  },
+  "scripts": {
+    "test": "cake test"
+  }
 }
