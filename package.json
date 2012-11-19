@@ -5,6 +5,7 @@
   "main": "./lib/romanize.js",
   "author": {
     "name": "Brandon Mills",
+    "github": "btmills",
     "twitter": "brandontmills"
   },
   "repository": {
