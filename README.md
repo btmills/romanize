@@ -8,20 +8,26 @@ Uses rules as defined in the [relevant Wikipedia article](http://en.wikipedia.or
 
 ### Node.js
 
-	var romanize = require('romanize');
-	romanize.Romanize(42); // Returns 'XLII'
-	romanize.Deromanize('XLII'); // Returns 42
+```JavaScript
+var romanize = require('romanize');
+romanize.Romanize(42); // Returns 'XLII'
+romanize.Deromanize('XLII'); // Returns 42
+```
 
 ### Browser
 
 Include romanize.js in your HTML:
 
-	<script src="romanize.js"></script>
-	
+```HTML
+<script src="romanize.js"></script>
+```
+
 Then in a script:
 
-	romanize.Romanize(42); // Returns 'XLII'
-	romanize.Deromanize('XLII'); // Returns 42
+```JavaScript
+romanize.Romanize(42); // Returns 'XLII'
+romanize.Deromanize('XLII'); // Returns 42
+```
 	
 ## Developing
 
